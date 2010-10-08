@@ -1,0 +1,73 @@
+CHANGELOG / README
+ 
+--------------------------------------------------------------------------------------------------------
+FIRST WORD
+Gangboy70 Proudly Presents:
+Dark-iCE Repack V4
+Powered by:
+Dark-iCE
+Emulation at it's best
+--------------------------------------------------------------------------------------------------------
+ABOUT BUGS
+Dont spam the ShoutBox with them
+dont expect if you put them there u get a vip treatment with your bug post them in the right categorys
+and whait for a solution
+because solutions dont grow on trees there will be a whaiting time.
+-------------------------------------------------------------------------------------------------------
+INFO
+Thanks for downloading V4
+As you can see it is renewed no big downloads anymore.
+You will see a file called Repack Installation
+When you are ready to get the repack just open it and follow the wizard.
+Changelog V4
+- MySQL Fixed (Thanks to Cone)
+- Apache Fixed (Thanks to Cone)
+- Filezilla Fixed (Thanks to Cone)
+- Mercury Fixed (Thanks to Cone)
+- Added Repack Installation.bat
+- Made a installer
+- Shrinked The Size with 550MB.
+- Added Support for slow internet connections. (By Using GIT)
+- Added Credits to the Installer
+- Lich King Raid Fixed (Thanks To Singlem)
+- Removed Mangosweb enhanched
+- Removed phpBB
+- Removed SMF (Simple Machine Forums)
+- Fixed Setup_xampp.bat (Thanks to Cone)
+--------------------------------------------------------------------------------------------------------
+
+TODO
+- Upgrade the installer
+- Update the process Checker (sometimes a false fail just run the test again)
+- Add the Dark-iCE Logo to the installer.
+- Shrink more of the size
+--------------------------------------------------------------------------------------------------------
+Support
+Support for the repack can be found in the topic where you downloaded this file
+(as soon as V4 is released the older versions V1,V2,V3 wont be supported anymore)
+If you want to contribute to the repack by giving a idea email to,
+marklubberts1@hotmail.com (do not add me on msn for repack support)
+Good Luck
+--------------------------------------------------------------------------------------------------------
+Credits
+
+iCE (creating Project Dark-iCE)
+Gangboy70 (Creating The Repack And Installer)
+Singlem (Fixing More Bugs)
+Cone (Giving me the xampp solution / Explaining me DOS what made the installer possible)
+Darkrulerz (Giving me handy dos tips also / Fixing bugs)
+Without them this wouldnt be possible so give them a big applause they do the real work i just pack it.
+--------------------------------------------------------------------------------------------------------
+Safety
+ 
+Do not download this repack from any other forum the "Official" Dark-iCE Pre-Compiled Core,
+can only be safely downloaded from here if you see a post called "Official" Dark-iCE Pre-Compiled Core 
+on any other site PM it to me because i will take that post down then.
+--------------------------------------------------------------------------------------------------------
+Copyright
+ 
+This repack is made by me (gangboy70) you are not allowed to share it on any other forum or copy any part from it!
+unless you got my permission (or from darkrulerz,singlem,iCE) if you do so and i find out i will take your post down!!!
+if you are allowed by one of the other admins to share it PM me the message you got from them so i can ignore
+your post if i see it on any other site.
+--------------------------------------------------------------------------------------------------------
